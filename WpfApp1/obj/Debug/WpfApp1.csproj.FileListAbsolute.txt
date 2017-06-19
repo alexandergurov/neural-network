@@ -1,0 +1,14 @@
+D:\dev\neiro\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\dev\neiro\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\dev\neiro\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\dev\neiro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
